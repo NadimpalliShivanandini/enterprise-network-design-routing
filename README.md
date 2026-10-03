@@ -616,9 +616,3 @@ packet-tracer/
 Contains the final Cisco Packet Tracer simulation.
 
 ---
-
-# 👤 Author
-
-**Your Name**
-
-Enterprise Network Design & Routing Simulation
